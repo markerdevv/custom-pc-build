@@ -2,7 +2,7 @@
 
 [![YouTube Demonstration](https://img.shields.io/badge/YouTube-Watch%20Build-red?style=for-the-badge&logo=youtube)](https://youtu.be/4U5wmjODBLQ)
 
-<img src="assets/pics/PC First Photo.jpg" alt="PC Initial Build">
+<img src="assets/PC First Photo.jpg" alt="PC Initial Build">
 
 
 ## Description
